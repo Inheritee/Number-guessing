@@ -1,1 +1,1 @@
-# Number-guessing game, early creation with Python
+Guess the number game in CMD
